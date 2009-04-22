@@ -12,7 +12,7 @@ Project definition
 *   Outline project deliverables and/or desired outcomes
 *   Constraints
 *   Interfaces
-*   
+
 Outline Business Case
 ---------------------
 
