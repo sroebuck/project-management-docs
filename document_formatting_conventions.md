@@ -1,13 +1,11 @@
-DOCUMENT FORMATTING CONVENTIONS
+Document formatting conventions
 ===============================
 
 Case
 ----
 
-For plain text documents, upper case text can be used to distinguish titles
-from body text, but in all other structured formats, use mixed case and prefer
-lower case over title case. e.g. use "This is a heading" not "This Is A
-Heading" and not "This is a Heading".
+Use mixed case and prefer lower case over title case. e.g. use "This is a
+heading" not "This Is A Heading" and not "This is a Heading".
 
 Styles and formatting
 ---------------------
@@ -24,7 +22,7 @@ Use standard paragraph styles to denote document structure.
 
 For Open Office this means:
 
-    Title - The main document title
-    Heading 1 - A first level heading
-    Heading 2 - A second level heading, etc.
-    Text body - Body text
+    Title:      The main document title
+    Heading 1:  A first level heading
+    Heading 2:  A second level heading, etc.
+    Text body:  Body text

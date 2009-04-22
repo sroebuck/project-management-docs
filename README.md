@@ -1,4 +1,4 @@
-README
+ReadMe
 ======
 
 The aim of this project is to build up a collection of useful templates for
@@ -17,13 +17,12 @@ Finally, for now, simplicity is key here. I would like to think that this set
 of documents can be stored in formats that focus principally on content and
 structure and are not distracted by style and presentation. However, this is a
 compromise because, to be useful, it is helpful if document templates can be
-lifted and applied directly without the need for further formatting. One
-possible solution to this would be to have some combination of structure
-documents and style sheets to automatically render the structured documents in
-various different styles. But watch out, that sounds too heavy weight an idea
-already!
+lifted and applied directly without the need for further formatting. The
+current decision is to use Markdown format wherever possible as this can be
+auto-converted to HTML and from there to a solid clean ODT format with
+suitable styling.
 
 Okay, really final point.  All contributions encouraged!
 
 
-Stuart Roebuck - 2009-04-18
+Stuart Roebuck - 2009-04-22
